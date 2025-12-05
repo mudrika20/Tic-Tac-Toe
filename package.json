@@ -1,6 +1,6 @@
 {
   "name": "tic-tac-toe-game",
-  "homepage": "https://mudrika20.github.io/Tic-Tac-Toe.",
+  "homepage": "https://mudrika20.github.io/Tic-Tac-Toe",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +9,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "vite build --base=/Tic-Tac-Toe./",
+    "predeploy": "vite build --base=/Tic-Tac-Toe/",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
